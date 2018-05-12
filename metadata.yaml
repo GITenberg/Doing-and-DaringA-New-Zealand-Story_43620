@@ -1,0 +1,33 @@
+_repo: Doing-and-DaringA-New-Zealand-Story_43620
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43620-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Stredder, Eleanor
+    alias: Stredder, E.‏ (Eleanor)‏
+    gutenberg_agent_id: '42315'
+    url: http://www.gutenberg.org/2009/agents/42315
+description: ''
+gutenberg_issued: '2013-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Zealand -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Maori (New Zealand people) -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: 'Doing and Daring: A New Zealand Story'
+url: http://www.gutenberg.org/ebooks/43620
